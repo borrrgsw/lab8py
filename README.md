@@ -308,13 +308,13 @@ menu()
 ![gambar](ss4.png)
 - Ketika sudah di update
 
-![gambar}(ss5.png)
+![gambar](ss5.png)
 - Memilih nomor 4 untuk menghapus data Mahasiswa
 
 ![gambar](ss6.png)
 - Ketika memilih nommor 5 untuk keluar dari program dan selesai
 
 ![gambar](ss7.png)
-### Dan ini snapcode nya
+- Dan ini snapcode nya
 
 ![gambar](ss1.png)
