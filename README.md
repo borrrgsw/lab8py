@@ -314,7 +314,7 @@ menu()
 ![gambar](ss6.png)
 - Ketika memilih nommor 5 untuk keluar dari program dan selesai
 
-![gambar](ss7.pg)
+![gambar](ss7.png)
 ### Dan ini snapcode nya
 
-![gambar](ss8.png)
+![gambar](ss1.png)
