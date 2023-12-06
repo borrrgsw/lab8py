@@ -292,7 +292,7 @@ menu()
 ```
 
 
-## Dibawah adalah snapshot ketika program di jalankan
+## Dibawah adalah gambaran ketika program di jalankan
 
 - Ketika program dijalankan, maka akan muncul menu seperti di bawah ini
 
