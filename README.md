@@ -289,11 +289,16 @@ def pilih1():
 		ulang = input("Apakah Anda Ingin Mengulang (Y/ T)? ")		
 
 menu()
+```
 
 
 ## Dibawah adalah snapshot ketika program di jalankan
 
 - Ketika program dijalankan, maka akan muncul menu seperti di bawah ini
 
-![gambar](ss1.png)
+![gambar](ss2.png)
 - Ketika program di jalankan, memilih menu nomor 1
+  
+![gambar](ss3.png)
+- Ketika 
+- 
