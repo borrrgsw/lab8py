@@ -3,7 +3,7 @@ Lab8py ini berisikan file praktikum 8 pada pertemuan 12
 
 
 
-### Pada repository Labspy08 ini, saya akan mencoba menjelaskan hasil praktikum saya mengenai penggunaan class dan atribut nya didalam python, berikut dengan flowchartnya.
+### Pada repository Lab8py ini, saya akan mencoba menjelaskan hasil praktikum saya mengenai penggunaan class dan atribut nya didalam python, berikut dengan flowchartnya.
 
 - Dibawah adalah flowchart program nya
 - ![gambar1](ss8.png)
