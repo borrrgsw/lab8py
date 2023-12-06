@@ -299,6 +299,22 @@ menu()
 ![gambar](ss2.png)
 - Ketika program di jalankan, memilih menu nomor 1
   
-![gambar](ss3.png)
-- Ketika 
-- 
+![gambar](ss9.png)
+- Ketika program memilih menu nomor 2
+
+![gambar](ss3.png) 
+- Ketika prorgram memilih nomor 3 dan mengupdate program
+
+![gambar](ss4.png)
+- Ketika sudah di update
+
+![gambar}(ss5.png)
+- Memilih nomor 4 untuk menghapus data Mahasiswa
+
+![gambar](ss6.png)
+- Ketika memilih nommor 5 untuk keluar dari program dan selesai
+
+![gambar](ss7.pg)
+### Dan ini snapcode nya
+
+![gambar](ss8.png)
